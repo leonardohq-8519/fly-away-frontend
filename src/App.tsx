@@ -37,7 +37,7 @@ function App() {
 
   return (
     <div>
-      <nav style={{ width: '100%', padding: '1rem', background: '#f0f0f0', marginBottom: '1rem' }}>
+      <nav style={{ width: '100%', padding: '1rem', background: '#1c1919', marginBottom: '1rem' }}>
         <h2>Fly Away</h2>
         <div style={{ marginLeft: 'auto' }}>
           {user ? (
